@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mynameisjacky
-- 👀 I’m interested in trading
+- 👀 I’m interested in trading and aspiring software developer
 - 🌱 I’m currently learning C++
 - 📫 You can reach me on LinkedIn
 
